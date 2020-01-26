@@ -6,3 +6,6 @@ y = x
 
 print(x["C"][1])
 
+y["A"]=88
+
+print(x["A"])
